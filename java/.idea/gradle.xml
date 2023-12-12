@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -7,6 +8,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/annalyns-infiltration" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/bird-watcher" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/bird-watcher" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -36,6 +45,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/leap" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/leap" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/log-levels" />
         <option name="modules">
           <set>
@@ -48,6 +65,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/micro-blog" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/two-fer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/two-fer" />
           </set>
         </option>
       </GradleProjectSettings>
